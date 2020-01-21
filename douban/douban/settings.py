@@ -16,7 +16,7 @@ NEWSPIDER_MODULE = 'douban.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'douban (+http://www.yourdomain.com)'
+USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
